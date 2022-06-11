@@ -1,1 +1,1 @@
-# shufflenet
+# Network permutation
